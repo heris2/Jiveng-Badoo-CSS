@@ -3018,9 +3018,14 @@ input:-ms-input-placeholder {
   color: inherit;
 }
 
+.btn--mosque {
+  background: #016773;
+}
+
 .btn--red {
   background: #f02139;
 }
+
 
 .btn--red:hover, .btn--red:focus {
   background: rgb(216, 30, 51);
